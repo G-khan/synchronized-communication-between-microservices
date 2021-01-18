@@ -8,7 +8,7 @@ Demo project for Microservice Synchronous communication using Kotlin, Spring Boo
 ## Requirements
 1.  Java - 1.11.x
 2.  Gradle- 3.x.x
-3. Clone the [Service Discovery click it.](https://github.com/G-khan/synchronized-communication-between-microservices) 
+3. Clone the [Service Discovery click it.](https://github.com/G-khan/spring-eureka-server-kotlin) 
 
 **Step 1: Running the Service Discovery**
 Open the service discovery path then,
